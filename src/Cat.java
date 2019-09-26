@@ -6,6 +6,8 @@ import java.awt.geom.*;
 //Eric Schmidt modify 1
 //Eric Schmidt modify 2
 //Eric Schmidt modify 3
+//Eric Schmidt modify 4
+
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
